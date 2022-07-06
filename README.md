@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-GitHub Pipenv locked Python version badge	/github/pipenv/locked/python-version/:user/:repo
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Py?label=Python&logo=Python&style=flat-square">
 
 <!--
 **quinextr/quinextr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
